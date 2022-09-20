@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: finance_bank
+  profiles:
+    active: dev
